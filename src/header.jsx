@@ -3,6 +3,7 @@ export default function Header(){
         <div>
 
             <h1>ana </h1>
+            <h1>lika</h1>
         </div>
     )
 }
