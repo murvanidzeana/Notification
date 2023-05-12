@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.boxes{
+    width:923px ;
+    height:221px ;
+    color: rgba(47, 48, 50, 1);
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.Text{
+    text-align: left;
+    
+}
+.Text h1{
+    font-family: Poppins;
+    font-size: 35px;
+    line-height: 54px;
+
+}
+
+
+.Text p{
+    font-family: Poppins;
+    font-size: 24px;
+    line-height: 36px;
+
+}
+
+
+.circle{
+    position: relative;
+}
+.logo img {
+    position: absolute;
+}
+.img{
+    width: 134px;
+    height: 134px;
+    margin-top: 43px;
+    margin-left: 73px;
+}
+.line{
+    width: 10px;
+    height: 221px;
+    
+}

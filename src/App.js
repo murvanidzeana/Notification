@@ -1,11 +1,11 @@
 
 import './App.css';
-import Header from './header'
+import Notification from './Notification';
 
 function App() {
   return (
     <div className="App">
-      <Header/>
+      <Notification/>
     </div>
   );
 }
