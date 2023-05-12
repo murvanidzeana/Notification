@@ -65,8 +65,8 @@ const Array = [
 function Boxes (proops){
 return(
     
-   <div className='ana'>
-    <div className='fullboxes'>
+   <div className='fullboxes'>
+    <div className='boxes'>
          <div className='circle'>
             <img src={proops.line} className='line' alt="" />
             <img src={proops.logo} className='logo' alt="" />
