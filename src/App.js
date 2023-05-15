@@ -1,11 +1,12 @@
-
 import './App.css';
-import Notification from './Notification';
-
+import Notification from './components/Notification';
 function App() {
   return (
     <div className="App">
-      <Notification/>
+      <Notification type='succes'/>
+      <Notification type='error'/>
+      <Notification type='warning'/>
+      <Notification type='info'/>
     </div>
   );
 }
